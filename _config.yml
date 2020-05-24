@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Faso Langue Lab / BF
-description: Initiative Data Against COVID-19 / FR
+description: Initiative Faso Langue Lab / BF
 baseurl:  # the subpath of your site, e.g. /support
 url: # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
@@ -30,7 +30,7 @@ use_authors: false #Set this to false to disable showing post authors
 brand_logo: logo-square.png
 brand_name: Faso Langue Lab / BF
 header: Faso Langue Lab / BF
-subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Data against Covid est une <font color=red>organisation informelle issue de la société civile</font> avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents <font color=red>de tous corps de métiers</font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées sur l'épidémie de covid 19 et proposer des outils de visualisation.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br> Favoriser une information claire, précise et accessible pour tous sur la propagation du virus.
+subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Faso Langue Lab est un effort de recherche pour la PNL et la traduction automatique pour les langues Burkinabés. Nous sommes une <font color=red>communauté</font> avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents <font color=red>de tous corps de métiers </font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées (corpus), des algorithmes, modéles pré-entrainés et proposer des Apps d'intelligences artificiels.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br> Favoriser une information claire, précise et accessible pour tous sur la propagation du virus.
 meta_image: odin-meta.png
 
 # Social Links
