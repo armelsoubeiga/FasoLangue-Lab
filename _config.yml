@@ -59,9 +59,9 @@ nav_button: Return to Home
 nav_button_link:
 
 # More Help
-help_one_title: Signaler des bugs / Contribuer au site
+help_one_title: Signaler des bugs / Contribuer
 help_one_content: #If you find any bugs or problems, please open an issue over on Github.
-help_one_button: Github
+help_one_button: 
 help_one_link: https://github.com/opencovid19-fr
 
 
