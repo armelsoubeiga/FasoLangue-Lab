@@ -2167,9 +2167,9 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
-			.tiles team.style1 > .image:before {
+/* 			.tiles team.style1 > .image:before {
 				background-color: #f2849e;
-			}
+			} */
 
 
 			body:not(.is-touch) .tiles team:hover > .image {
