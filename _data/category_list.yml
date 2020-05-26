@@ -2,36 +2,9 @@
 
 
 
-dataviz-fr:
-  name: veille-coronavirus.fr
-  description: Tableau de bord de suivi de l’épidémie de nouveau coronavirus
-networking:
-  name: Pharm'Help
-  description: description
-covid-data-fr:
-  name: covid-data.fr
-  description:
-comment-contribuer:
-  name: Comment contribuer ?
-  description: Bienvenue, voici quelques informations
-qui-sommes-nous:
-  name: Qui sommes-nous ?
-  description: Une description de l'initiative
-dataviz:
-  name: tiny.cc_covidfr
-  description:
-collect-documentation:
-  name: Covid-data
-  description:
-coronastatus:
-  name: coronastatus.fr
-  description:
-covid-es:
-  name: covid 2 ElasticSearch
-  description:
-validation-qpcr:
-  name: validation qPCR
-  description:
-covidoscope:
-  name: CovidOscope
-  description:
+projet-data-model-moore-fr:
+  name: Projet de collecte 
+  description: Projet de construction de corpus et conception de modèle de traduction moore-fr
+projet-traductor-moore-fr:
+  name: Traductor moore-fr
+  description: Projet de conception d'une application mobile & web de traduction moore-fr et francais-moore
