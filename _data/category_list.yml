@@ -9,5 +9,5 @@ projet-model-moore-fr:
   name: Projet de construction d'un modèle de traduction automatique moore-fr
   description: Contruction et entrainement d'un modèle de traduction moore-fr
 projet-traductor-moore-fr:
-  name: Traductor moore-fr
+  name: Application de traduction web & mobile moore-fr
   description: Projet de conception d'une application mobile & web de traduction moore-fr et francais-moore
