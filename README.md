@@ -1,8 +1,8 @@
-# Data Against Covid-19 website
+# Traductor Lab / BF
 
-Data against Covid est une organisation informelle issue de la société civile avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents de tous corps de métiers qui s'organisent ensemble pour fournir des données consolidées sur l'épidémie de covid 19 et proposer des outils de visualisation et de prédiction.
+Traductor Lab / BF est un effort de recherche pour la PNL et la traduction automatique pour les langues Burkinabés. Nous sommes une communauté de développeurs, des data scientist, des ingénieurs et des talents de tous corps de métiers qui s'organisent ensemble pour fournir des données consolidées (corpus), des algorithmes, modéles pré-entrainés et proposer des Apps d'intelligences artificiels.
 
-Téléchargez la présentation de l'initiative et de ses projets [`Data_Against_Covid19.pdf`](https://drive.google.com/file/d/11enKiBPKxGW4b0eLi_IlN68MbXGdk7nc/view).
+
 
 ## Comment
 
