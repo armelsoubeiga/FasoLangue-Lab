@@ -13,6 +13,7 @@
     <a style="height: auto;" class="btn btn-lg btn-outline py-2 mt-4">Return to {{ site.brand_name }} Home</a>
 
   </div>
+  <a id="togglemenu" onclick="document.body.classList.toggle('menuopen');">Menu<span><span></span><span></span><span></span></span>
   <ul class="main-nav">
     {% if site.nav_item_one == null %}
     {% else %}
@@ -42,5 +43,6 @@
       <a href="{{ site.nav_button_link }}" style="height: auto;" class="btn btn-lg btn-outline py-2">{{ site.nav_button }}</a>
     </li>
   </ul>
+    </a>
         {% include text-expand.html %}
 </nav>
