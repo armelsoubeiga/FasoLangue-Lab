@@ -2035,7 +2035,6 @@ input, select, textarea {
 		flex-wrap: wrap;
 		position: relative;
 		margin: 0;
-		text-align: center;
 	}
 
 		.tiles team {
@@ -2046,7 +2045,6 @@ input, select, textarea {
 			position: relative;
 			width: calc(33.33333% - 2.5em);
 			margin: 2.5em 0 0 2.5em;
-			text-align: center;
 		}
 
 			.tiles team > .image {
