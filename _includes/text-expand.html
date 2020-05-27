@@ -1,10 +1,4 @@
-<a id="togglemenu" onclick="document.body.classList.toggle('menuopen');">
-	<span>
-		<span>a</span>
-		<span>b</span>
-		<span>c</span>
-	</span>
-</a>
+<a id="togglemenu" onclick="document.body.classList.toggle('main-nav');"><span><span></span><span></span><span></span></span></a>
 
 <style>
 @keyframes span1 {
@@ -35,17 +29,17 @@
 #togglemenu > span > span:nth-child(2) {top: 50%; margin-top: -1px;}
 #togglemenu > span > span:nth-child(3) {bottom: 0; transform-origin: 50% 100%;}
 
-.menuopen #togglemenu > span > span:nth-child(1) {
+.main-nav #togglemenu > span > span:nth-child(1) {
     animation: span1 0.25s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
-.menuopen #togglemenu > span > span:nth-child(2) {
+.main-nav #togglemenu > span > span:nth-child(2) {
     animation: span2 0.25s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;  
 }
-.menuopen #togglemenu > span > span:nth-child(3) {
+.main-nav #togglemenu > span > span:nth-child(3) {
     animation: span3 0.25s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards; 
