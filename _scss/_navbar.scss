@@ -73,7 +73,7 @@
   display: block;
 }
 
-@media screen and (max-width: 55rem) {
+@media only screen and (max-width: 55rem) {
   .navbar {
         padding: 30px 10px;
         display: flex;
@@ -99,10 +99,10 @@
                     margin-left: 20px;
                     &.nav-divider {
                       width: 2px;
-                      background: $white;
+                      background: #999; //$white;
                       height: 20px;
                       &.divider-dark {
-                        background: $dark-color;
+                        background:#999;// $dark-color;
                       }
                     }
                     & a.active {
