@@ -73,7 +73,7 @@
   display: block;
 }
 
-@media only screen and (max-width: 55rem) {
+@media only screen and (min-width: 768px) {
   .navbar {
         padding: 30px 10px;
         display: flex;
