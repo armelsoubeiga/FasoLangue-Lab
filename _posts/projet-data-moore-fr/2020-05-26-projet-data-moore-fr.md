@@ -10,13 +10,28 @@ short-description: Projet de collecte de données et de construction de corpus m
 -----
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
-**Vous pouvez aider à tous les niveaux**, voici quelques manières de participer:
-- Vous pouvez vous engager dans la collecte de données
-- Vous pouvez lancer un nouveau projet exploitant les données
-- Vous pouvez coopérer avec des médecins et des datascientists sur des projets de visualisation et de prédiction
-- Vous pouvez participer à l'organisation
-- Vous pouvez partager ce projet auprès de vos amis afin de faire venir de nouveaux contributeurs
 
-Pour le reste, à vous d'inventer la forme que prendra votre contribution!
+**Objectif** : Collecter et stocker des ensemble de données ou phrases en mooree et traduit en français ou vis versa. Cette collecte se fait par scraping web, pdfTOtext, traitement des bibles existant en moore-fr. 
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
+**Livrable** : Un ensemble de corpus (train-test) prêt à employer dans un moèle de traduction.
+
+**Organisation du projet :**
+
+- Github : 
+- Membre :
+    - Cordinateur/Porteur du projet :
+      - Armel Soubeiga
+      - Blaise Sandwidi
+      
+     - Contributeur :
+
+**Outils utilisés :**
+
+- Liste des briques techniques utilisées
+    - Python
+    - R
+    - JavaScript
+    
+- Source  : 
+
+**Licence :** MIT - Mai 2020
