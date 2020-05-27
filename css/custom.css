@@ -13,7 +13,8 @@ nav.container.grid-xl.navbar{
 }
 
 
-.navbar-toggle {
+@media screen and (max-width: 55rem) {
+.navbar{
   position: absolute;
   top: 14px;
   right: 20px;
@@ -21,52 +22,6 @@ nav.container.grid-xl.navbar{
   color: $white;
   font-size: 24px;
 }
-
-.active {
-  display: block;
-}
-
-@media screen and (max-width: 55rem) {
-  .navbar {
-        padding: 30px 10px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        & .dash-nav {
-          padding: 20px 0;
-        }
-        .navbar-toggle {
-              display: none;
-        }
-        .logo {
-              margin-top: 0;
-        }
-        .main-nav {
-              display: block;
-              margin-right: 30px;
-              flex-direction: row;
-              align-items: center;
-              margin: 0;
-              li {
-                    margin: 0;
-                    margin-left: 20px;
-                    &.nav-divider {
-                      width: 2px;
-                      background: $white;
-                      height: 20px;
-                      &.divider-dark {
-                        background:$dark-color;
-                      }
-                    }
-                    & a.active {
-                      color: $error;
-                      border: 2px solid transparent;
-                      text-decoration: none;
-                    }
-              }
-        }
-
-  }  
 }
 
 
