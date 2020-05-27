@@ -11,19 +11,19 @@ short-description: Projet de collecte de données et de construction de corpus m
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
 
-**Objectif** : Collecter et stocker des ensemble de données ou phrases en mooree et traduit en français ou vis versa. Cette collecte se fait par scraping web, pdfTOtext, traitement des bibles existant en moore-fr. 
+**Objectif** : Collecter et stocker des ensembles de données ou phrases en mooree et traduit en français ou vice versa. Cette collecte se fait par scraping web, pdfTOtext, traitement des bibles existant en moore-fr. 
 
-**Livrable** : Un ensemble de corpus (train-test) prêt à employer dans un moèle de traduction.
+**Livrable** : Un ensemble de corpus (train-test) prêt à employer dans un modèle de traduction.
 
 **Organisation du projet :**
 
 - Github : 
 - Membre :
-    - Cordinateur/Porteur du projet :
+    - Cordonnateur/Porteur du projet :
       - Armel Soubeiga
       - Blaise Sandwidi
       
-     - Contributeur :
+     - Contributeurs :
 
 **Outils utilisés :**
 
