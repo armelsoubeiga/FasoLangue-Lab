@@ -10,13 +10,30 @@ short-description: Projet de conception d'une application mobile & web de traduc
 -----
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
-**Vous pouvez aider à tous les niveaux**, voici quelques manières de participer:
-- Vous pouvez vous engager dans la collecte de données
-- Vous pouvez lancer un nouveau projet exploitant les données
-- Vous pouvez coopérer avec des médecins et des datascientists sur des projets de visualisation et de prédiction
-- Vous pouvez participer à l'organisation
-- Vous pouvez partager ce projet auprès de vos amis afin de faire venir de nouveaux contributeurs
+**Objectif** : Développer une application web et mobile en intégrant un modèle de traduction moore-français développé dans un autre projet.
 
-Pour le reste, à vous d'inventer la forme que prendra votre contribution!
+**Livrable** : 
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
+**Organisation du projet :**
+
+- Github : 
+- Membre :
+    - Cordonnateur/Porteur du projet :
+      - Armel Soubeiga
+
+      
+     - Contributeurs :
+
+**Outils utilisés :**
+
+- Liste des briques techniques utilisées
+    - Django, Flask, Streamlit
+    - Python
+    - HTML, CSS, JavaScript
+    - Java
+    - Android Studio
+    - Tensorflow lite
+    
+- Source  : 
+
+**Licence :** MIT - Mai 2020
