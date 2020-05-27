@@ -73,17 +73,17 @@
   display: block;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 55rem) {
   .navbar {
         padding: 30px 10px;
         display: flex;
         justify-content: space-between;
-//         align-items: center;
+        align-items: center;
         & .dash-nav {
           padding: 20px 0;
         }
         .navbar-toggle {
-              display: none;
+              display: block;
         }
         .logo {
               margin-top: 0;
@@ -92,17 +92,17 @@
               display: flex;
               margin-right: 30px;
               flex-direction: row;
-//               align-items: center;
+              align-items: center;
               margin: 0;
               li {
                     margin: 0;
                     margin-left: 20px;
                     &.nav-divider {
                       width: 2px;
-                      background: #020B44; //$white;
+                      background: $white;
                       height: 20px;
                       &.divider-dark {
-                        background:#020B44;// $dark-color;
+                        background:$dark-color;
                       }
                     }
                     & a.active {
