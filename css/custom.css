@@ -28,6 +28,11 @@ p.m-0.ml-2.text-light.d-inline {
 html body div.header-bg div.container-full div.header nav.container.grid-xl.navbar ul.main-nav li  a.btn.btn-lg.btn-outline.py-2 {
     display: none;
 }
+*/
+
+html body div.header-bg div.container-full div.header nav.container.grid-xl.navbar ul.main-nav li  ul.mobile-nav {
+    display: none;
+}
 
 /* ############ Général Layout*/
 
