@@ -73,12 +73,12 @@
   display: block;
 }
 
-@media only screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .navbar {
         padding: 30px 10px;
         display: flex;
         justify-content: space-between;
-        align-items: center;
+//         align-items: center;
         & .dash-nav {
           padding: 20px 0;
         }
@@ -92,17 +92,17 @@
               display: flex;
               margin-right: 30px;
               flex-direction: row;
-              align-items: center;
+//               align-items: center;
               margin: 0;
               li {
                     margin: 0;
                     margin-left: 20px;
                     &.nav-divider {
                       width: 2px;
-                      background: #999; //$white;
+                      background: #020B44; //$white;
                       height: 20px;
                       &.divider-dark {
-                        background:#999;// $dark-color;
+                        background:#020B44;// $dark-color;
                       }
                     }
                     & a.active {
