@@ -11,6 +11,59 @@ nav.container.grid-xl.navbar{
     background-color: #131313;
     z-index: 1000;
 }
+.navbar-toggle {
+  position: absolute;
+  top: 14px;
+  right: 20px;
+  cursor: pointer;
+  color: $white;
+  font-size: 24px;
+}
+
+@media screen and (min-width: 768px) {
+  .navbar {
+        padding: 30px 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        & .dash-nav {
+          padding: 20px 0;
+        }
+        .navbar-toggle {
+              display: none;
+        }
+        .logo {
+              margin-top: 0;
+        }
+        .main-nav {
+              display: block;
+              margin-right: 30px;
+              flex-direction: row;
+              align-items: center;
+              margin: 0;
+              li {
+                    margin: 0;
+                    margin-left: 20px;
+                    &.nav-divider {
+                      width: 2px;
+                      background: $white;
+                      height: 20px;
+                      &.divider-dark {
+                        background:$dark-color;
+                      }
+                    }
+                    & a.active {
+                      color: $error;
+                      border: 2px solid transparent;
+                      text-decoration: none;
+                    }
+              }
+        }
+
+  }  
+}
+
+
 /* ###### Navbar logo*/
 a.logo img {
     height: 70px;
