@@ -75,7 +75,7 @@ section .section-title {
 }
 
 .backside {
-    position: relative;
+    position: absolute;
 /*     top: 0;
     left: 0; */
     background: white;
