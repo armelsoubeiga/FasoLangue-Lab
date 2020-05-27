@@ -11,26 +11,26 @@ short-description: Projet de développement et entrainement un modèle de traduc
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
 
-**Objectif** : Collecter et stocker des ensemble de données ou phrases en mooree et traduit en français ou vis versa. Cette collecte se fait par scraping web, pdfTOtext, traitement des bibles existant en moore-fr. 
+**Objectif** : Entrainement d'un modèle de traduction automatique 
 
-**Livrable** : Un ensemble de corpus (train-test) prêt à employer dans un moèle de traduction.
+**Livrable** : un modèle qui pourrait être utilisé par toute personne desirant integrer un traducteur moore sur ses produits
 
 **Organisation du projet :**
 
 - Github : 
 - Membre :
-    - Cordinateur/Porteur du projet :
-      -Armel Soubeiga
-      -Blaise Sandwidi
+    - Cordonnateur/Porteur du projet :
+      - Armel Soubeiga
+      - Blaise Sandwidi
       
-     - Contributeur :
+     - Contributeurs :
 
 **Outils utilisés :**
 
 - Liste des briques techniques utilisées
     - Python
-    - R
-    - JavaScript
+    - Colab
+    - Tensorflow, PyTroch
     
 - Source  : 
 
