@@ -118,6 +118,7 @@ span {
 /*     background-color: black; */
     color: white;
     cursor: pointer;
+    font-family: 'share tech mono';
 }
          
 .dropdown {
@@ -128,7 +129,7 @@ span {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #171624;
+    background-color: #131313;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     padding: 12px 16px;
@@ -140,5 +141,5 @@ span {
          
 a:hover {
     cursor: pointer;
-    background-color: #221BF5;
+/*     background-color: #221BF5; */
 }
