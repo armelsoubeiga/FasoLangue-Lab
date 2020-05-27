@@ -24,11 +24,11 @@ p.m-0.ml-2.text-light.d-inline {
     font-family: 'share tech mono';
     max-width: 180px;
 }
-/* ###### Navbar Button
+/* ###### Navbar Button */
 html body div.header-bg div.container-full div.header nav.container.grid-xl.navbar ul.main-nav li  a.btn.btn-lg.btn-outline.py-2 {
-    display: block;
+    display: none;
 }
-*/
+
 /* ############ Général Layout*/
 
 /* ####### Pages title*/
