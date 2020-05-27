@@ -12,19 +12,6 @@ nav.container.grid-xl.navbar{
     z-index: 1000;
 }
 
-
-@media screen and (max-width: 55rem) {
-.navbar{
-  position: absolute;
-  top: 14px;
-  right: 20px;
-  cursor: pointer;
-  color: $white;
-  font-size: 24px;
-}
-}
-
-
 /* ###### Navbar logo*/
 a.logo img {
     height: 70px;
